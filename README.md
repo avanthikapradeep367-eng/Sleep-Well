@@ -6,7 +6,7 @@ SleepWell is a machine-learning–powered system designed to analyze sleep patte
 The project combines exploratory data analysis, sleep-quality prediction models, and a rule-based lifestyle recommender to help users build better sleep habits.
 
 
-# *🧠 Project Overview *
+🧠 Project Overview 
 
 Sleep quality is influenced by many behavioral factors such as screen time, bedtime, daily caffeine intake, and total sleep duration.
 
