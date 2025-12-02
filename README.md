@@ -1,4 +1,5 @@
-#😴 SleepWell: Sleep Pattern Analysis & Lifestyle Recommendation System
+#😴 **SleepWell: Sleep Pattern Analysis & Lifestyle Recommendation System**
+
 Machine Learning • Health Analytics • Behavior Insights
 
 SleepWell is a machine-learning–powered system designed to analyze sleep patterns, identify lifestyle habits that impact sleep quality, and generate personalized recommendations for healthier routines.
